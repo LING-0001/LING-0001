@@ -14,14 +14,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### ⚙️ Architecture / Tools
-<p>
-  <img src="https://img.shields.io/badge/J2V8-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebView-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Detekt-0A7E8C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge"/>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -52,6 +44,6 @@
 ---
 
 ## 💬 Quote
-> *“架构不是写出来的，是一步步踩坑总结出来的。”*  
+> *“找一车面包人弄你。”*  
 > —— LING
 
